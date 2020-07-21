@@ -4,3 +4,4 @@
 #### Steps to run the script :- 
 
 #### 1. Clone download the repository.
+#### 2. Go to this link [App Passwords] (https://myaccount.google.com/apppasswords)
